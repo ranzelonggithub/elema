@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ssss
 ffffa  野火烧ssss不aa尽 春风吹又
@@ -5,3 +6,16 @@ ffffa  野火烧ssss不aa尽 春风吹又
 	<h2>sssss</h2>
 </html>生
 sssssskdjflksjdoifds
+=======
+<<<<<<< HEAD
+hahaha
+xxxxxxxxxxxxxxxxxxxxxxxxxx
+离离原上草 一岁一枯荣  野火烧不尽 春风吹又生
+dsdsds
+
+=======
+haaaahaha
+xxxxxxxxxxxxxxxxxxxxxxxxx
+一枯荣aaaaaaaaa  野火烧不尽 春风吹又生
+>>>>>>> 95cd5ba90dd80d8046bac98c263e8806153ba0b1
+>>>>>>> ab3c1d5bd153bd4a474a1bcc8324a18e17a6f1bd
